@@ -5,4 +5,3 @@ bazel-out
 bazel-testlogs
 bazel-cplusplus_bazel
 .vscode
-.DS_Store
